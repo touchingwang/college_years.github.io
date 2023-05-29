@@ -1,5 +1,6 @@
 # touchingwang.github.io
-我的hexo博客 可以通过我的另一个博客 *[大学期间个人博客](whitesheep7.github.io)* 来查看
+我的hexo博客 可以通过我的另一个博客 *[大学期间个人博客](https://whitesheep7.github.io/)* 来查看
+
 ## 大学期间的博客
 > 记录的是我大学期间的博客，大学期间的技术学习主要是围绕这java和算法的学习，其中还有一下我的日常兴趣，预计22年下半年就会结束了
 
